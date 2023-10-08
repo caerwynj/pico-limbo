@@ -2,6 +2,7 @@
 
 TARG=\
 	blink.dis\
+	morse.dis\
 
 MODULES=\
 

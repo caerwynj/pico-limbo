@@ -1,7 +1,7 @@
 
 include "sys.m";
 sys: Sys;
-sleep, open, write, read, aprint, print, sprint: import sys;
+sleep, open, write, read, aprint, print, sprint, fildes, fprint: import sys;
 include "draw.m";
 include "string.m";
 str: String;
