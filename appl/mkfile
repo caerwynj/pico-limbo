@@ -1,0 +1,15 @@
+<../mkconfig
+
+TARG=\
+	blink.dis\
+
+MODULES=\
+
+SYSMODULES=\
+	bufio.m\
+	string.m\
+
+DISBIN=/home/pi/github/inferno-pico/dis
+
+<$ROOT/mkfiles/mkdis
+
